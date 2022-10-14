@@ -1,0 +1,1 @@
+Multiweather: python main.py --model vit_B16_224 --img_size 224 --num_heads 1 --lam 0.3 --dataset multiweather --num_cls 5 --batch_size 16
