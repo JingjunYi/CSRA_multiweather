@@ -1,5 +1,5 @@
 # Modification
-Add prepare_multiweather.py for simple structure multi-label dataset
+Add prepare_multiweather.py for simple structure multilabel multiweather dataset
 
 # Multiweather Dataset
 https://doi.org/10.1016/j.neucom.2018.09.048
