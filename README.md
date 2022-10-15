@@ -1,3 +1,6 @@
+# Modification
+Add prepare_multiweather.py for simple structure multi-label dataset
+
 # CSRA 
 This is the official code of ICCV 2021 paper:<br>
 [Residual Attention: A Simple But Effective Method for Multi-Label Recoginition](https://arxiv.org/abs/2108.02456)<br>
